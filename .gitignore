@@ -1,0 +1,19 @@
+# Local environment and caches
+/.venv/
+__pycache__/
+*.py[cod]
+/.agents/
+/.codex/
+/.aws/
+
+# Supplied data and derived media: no redistribution terms supplied
+/gow_bottom_part.tar.gz
+/out_/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
+
+# Downloaded third-party model weights
+*.pt
